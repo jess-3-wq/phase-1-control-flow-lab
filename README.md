@@ -109,6 +109,7 @@ the text in the `describe` and `it` functions say that the first 400 feet
 should be free. That `199` must be indicating the distance in feet of the
 requested ride.
 
+
 So reading tests is essentially like reading the instructions. It's something
 we may have avoided for much of our lives, but when it comes to programming,
 tests fill in the picture of the goal we are trying to accomplish. They run
